@@ -1,0 +1,5 @@
+"","Modelo","R2","n_covars","covars"
+"1","Argila mod1",0.412328021270134,6,"B1 + B2 + B3 + B4 + B5 + B7"
+"2","Argila mod2",0.539068328860301,12,"X + Y + B1 + B2 + B3 + B4 + B5 + B7 + NDVI + B3_B2 + B3_B7 + B5_B7"
+"3","Argila mod3",0.533879134720287,10,"X + Y + B1 + B2 + B3 + B4 + B5 + NDVI + B3_B7 + B5_B7"
+"4","Argila mod4",0.497667931844396,12,"X + Y + B1 + B2 + B3 + B4 + B5 + B7 + NDVI + B3_B2 + B3_B7 + B5_B7"

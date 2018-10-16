@@ -1,0 +1,5 @@
+"","Modelo","R2","n_covars","covars"
+"1","Argila GAM1",0.676516098216436,8,"s(X, Y, bs = ""ts"") + s(B1, bs = ""ts"") + s(B2, bs = ""ts"") + s(B3, bs = ""ts"") + s(B4, bs = ""ts"") + s(B5, bs = ""ts"") + s(B7, bs = ""ts"")"
+"2","Argila GAM2",0.64856012676121,12,"s(X, Y, bs = ""ts"") + s(B1, bs = ""ts"") + s(B2, bs = ""ts"") + s(B3, bs = ""ts"") + s(B4, bs = ""ts"") + s(B5, bs = ""ts"") + s(B7, bs = ""ts"") + s(NDVI, bs = ""ts"") + s(B3_B2, bs = ""ts"") + s(B3_B7, bs = ""ts"") + s(B5_B7, bs = ""ts"")"
+"3","Argila GAM3",0.716647986265186,12,"s(X, Y, bs = ""ts"") + s(B1, bs = ""ts"") + s(B2, bs = ""ts"") + s(B3, bs = ""ts"") + s(B4, bs = ""ts"") + s(B5, bs = ""ts"") + s(B7, bs = ""ts"") + s(NDVI, bs = ""ts"") + s(B3_B2, bs = ""ts"") + s(B3_B7, bs = ""ts"") + s(B5_B7, bs = ""ts"")"
+"4","Argila GAM4",0.51814478916828,3,"Y + B2 + B3_B7"
